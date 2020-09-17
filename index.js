@@ -15,7 +15,7 @@
 }
 
 document.addEventListener('DOMContentLoaded', async function() {
-let f =   await fetchBooks();
+ fetchBooks();
 
 
 })
